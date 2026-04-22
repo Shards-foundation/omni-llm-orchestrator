@@ -161,8 +161,8 @@ importers:
         specifier: ^3.15.0
         version: 3.15.3
       nanoid:
-        specifier: ^5.1.5
-        version: 5.1.6
+        specifier: ^5.1.9
+        version: 5.1.9
       next-themes:
         specifier: ^0.4.6
         version: 0.4.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
@@ -3226,8 +3226,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  nanoid@5.1.6:
-    resolution: {integrity: sha512-c7+7RQ+dMB5dPwwCp4ee1/iV/q2P6aK1mTZcfr1BTuVlyW9hJYiMPybJCcnBlQtuSmTIWNeazm/zqNoZSSElBg==}
+  nanoid@5.1.9:
+    resolution: {integrity: sha512-ZUvP7KeBLe3OZ1ypw6dI/TzYJuvHP77IM4Ry73waSQTLn8/g8rpdjfyVAh7t1/+FjBtG4lCP42MEbDxOsRpBMw==}
     engines: {node: ^18 || >=20}
     hasBin: true
 
@@ -6852,7 +6852,7 @@ snapshots:
 
   nanoid@3.3.11: {}
 
-  nanoid@5.1.6: {}
+  nanoid@5.1.9: {}
 
   negotiator@0.6.3: {}
 
@@ -7285,7 +7285,7 @@ snapshots:
       '@medv/finder': 4.0.2
       clsx: 2.1.1
       modern-screenshot: 4.6.8
-      nanoid: 5.1.6
+      nanoid: 5.1.9
       react: 19.2.0
       react-dom: 19.2.0(react@19.2.0)
       tailwind-merge: 3.5.0
