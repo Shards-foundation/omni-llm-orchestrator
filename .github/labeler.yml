@@ -1,0 +1,13 @@
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
+enhancement:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "client/**"
+          - "server/**"
+          - "shared/**"
+          - "drizzle.config.ts"
+          - "vite.config.ts"
+          - "vitest.config.ts"
